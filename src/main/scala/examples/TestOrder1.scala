@@ -32,6 +32,5 @@ object TestOrder1 {
       f => println(f)
     }
 
-
   }
 }
